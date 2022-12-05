@@ -30,10 +30,10 @@
 - [📝 License](#license)
 
 
-# 📖 [PORTFOLIO SETUP: MOBILE VERSION] <a name="about-project"></a>
+# 📖 [CODE REVIEW OF PAST PROJECT] <a name="about-project"></a>
 
 
-**[PORTFOLIO SETUP: MOBILE VERSION]** is a  personal portfolio,  I starting with the mobile version first, then I will proceed to building the desktop version.
+**[Code review of past projects]** is a  personal learning style to learning the mastery and art of code review.
 
 ## 🛠 Built With <a name="built-with"></a>
     - HTML
