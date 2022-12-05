@@ -28,6 +28,9 @@ nav a{
   letter-spacing: 2px;
   }
 
+  h1 p {
+    color: black;
+  }
 li a:visited{
   color: white;
 }
